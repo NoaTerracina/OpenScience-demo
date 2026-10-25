@@ -12,3 +12,5 @@ This repo store vegetation data collected in 2025 in Franzigmark,
 Germany, and display their species richness.
 
 The data are under CC BY 4.0 license and the code under MIT license.
+
+How to load the document:

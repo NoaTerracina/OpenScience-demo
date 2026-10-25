@@ -4,7 +4,7 @@ author: "Noa Terracina"
 format: html
 editor: visual
 ---
-
+To create a new project I did the following things using this librarys (repo creation, github connection, readme, license)
 ```{r}
 #| label: load the target
 #| include: false
