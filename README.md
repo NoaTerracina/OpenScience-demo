@@ -13,4 +13,4 @@ Germany, and display their species richness.
 
 The data are under CC BY 4.0 license and the code under MIT license.
 
-How to load the document:
+To reproduce the manuscript, please run the tar_make R file.
