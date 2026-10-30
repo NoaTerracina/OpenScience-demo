@@ -26,4 +26,6 @@ There is `{r} nrow(veg_managed)` plots, the half is grazed and the other is not.
 #| echo: false
 
 tar_read(veg_fig)
+
+tar_read(veg_management_effect_plot)
 ```
