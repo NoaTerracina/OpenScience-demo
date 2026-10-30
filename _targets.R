@@ -50,7 +50,7 @@ list(
   
   # plot management effect
   tar_target(
-    name = veg_management_effect_plot,
+    name = veg_management_effect_fig,
     command = plot_management_richness(veg_managed)
   ),
   
