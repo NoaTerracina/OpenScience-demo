@@ -4,17 +4,21 @@ vegetation_data|stem|f997001274e75596|6d21ef1054faca7f|a5b96d4c8f935cdb|21371529
 veg|stem|f124536263231b24|3d2194132ab06f6b|ec818419f27426d9|1318343801||t20749.6335354276s|s2886b|2886|rds|local|vector|||0.085||
 veg_m|stem||3466e4c7e84e1183|06764ab765d8cd81|-433247942||t20749.6335357693s||0|rds|local|vector|||0.006||could not find function 'management'
 vegetation_raw|stem|f997001274e75596|6d21ef1054faca7f|3cf6cf20aa1e1526|-1145416432||t20749.6349847693s||2830|rds|local|vector|||0.006||object 'veg_file' not found
-veg_file|stem|3d71247b14988014|cda9d2c98c42f535|2c530c1562a7fbd1|184178557|species_data_v1.csv|t20720.3769963741s|s14278b|14278|file|local|vector|||1.162||
-veg_raw|stem|a2fe83501647bb0f|541081e195d5f361|5931d628b7afcc0f|-2066385478||t20749.6520321317s|s2986b|2986|rds|local|vector|||0.002||
-veg_clean|stem|c20a823cc0bf90c5|0b50abc4751dc871|61037183357cba28|-1268413436||t20749.6520348863s|s2933b|2933|rds|local|vector|||0.176||
-veg_managed|stem|70bebb4965dc7bdb|50169288ca75c729|9c5889fbdadc7cfd|-752748084||t20749.6532956516s|s303b|303|rds|local|vector|||0.004||
-veg_richness|stem|b164242ddb2a9182|56cb12b5079fcc69|73a14b10b2be09e8|-1505047465||t20749.6570144519s|s271b|271|rds|local|vector|||0.032||
 vis_rich|function|9e44a94c3874a745
 veg_plot|stem|1d2fc5720b62ff8f|2d03743d5fd5109b|2ddde429671a4639|1332146679||t20749.65726978s|s264287b|264287|rds|local|vector|||0.113||
+veg_raw|stem|861c7bba11f076cf|541081e195d5f361|d280cfe2ca292abb|-2066385478||t20753.4320463539s|s2986b|2986|rds|local|vector|||0.01||
+veg_clean|stem|877d0c47474336ca|0b50abc4751dc871|7702a657c73713cd|-1268413436||t20753.4320502834s|s2933b|2933|rds|local|vector|||0.2||
+veg_richness|stem|137236a4c9f1504a|56cb12b5079fcc69|a99aed5c1e5b4f3c|-1505047465||t20753.4320515186s|s271b|271|rds|local|vector|||0.03||
+veg_managed|stem|1c2e222cdbb5e279|50169288ca75c729|41d88e7e8e0edc98|-752748084||t20753.4320522753s|s303b|303|rds|local|vector|||0||
+veg_fig|stem|51315fbbb0fbdb5e|f45b1a4430fdc945|7f497d03563f1e7b|1637083948||t20753.4320561515s|s265150b|265150|rds|local|vector|||0.16||
+veg_file|stem|070d0db1a933037f|cfb44ba417b24911|2c530c1562a7fbd1|184178557|C:/Users/mofal/Desktop/OpenScience-demo/data/species_data_v1.csv|t20753.4461400061s|s14391b|14391|file|local|vector|||0.81||
+veg_management_effect|stem|2b4aecc9710ff093|4cb160fa74f5effb|2dec61c7806c110b|-1918140979||t20753.4563555328s|s4610b|4610|rds|local|vector|||0.03||
+check_management_effect|function|28c13d81a2734dd3
+veg_management_effect_plot|stem|f03e0045810e8825|a14bbe5ef1104b1a|89b35b811428e664|-80508383||t20753.4585152345s|s337294b|337294|rds|local|vector|||0.06||
 read|function|f3c10bae379f1952
 plot_rich|function|d94065a56bafd990
 clean|function|12983f7b9dc1bf81
 management|function|860334b1f125d6f7
 calc_rich|function|311a185529f190bc
-veg_fig|stem|56a3cbdd67dbbb18|f45b1a4430fdc945|f58d49f7f7920cf2|1637083948||t20749.736319247s|s265166b|265166|rds|local|vector|||0.098||
-manuscript|stem|c53d796c93fc3394|ba28ea9fd1c88e6a|195bbcb62eb6bb8f|-1793997187|astonishing_vegetation_files*astonishing_vegetation.html*astonishing_vegetation.qmd|t20749.7363959936s|s964031b|964031|file|local|vector|||6.598||
+plot_management_richness|function|083e16b4425a15f0
+manuscript|stem|72369e5d8cd1759c|89cb64be2a94e40f|e8f67f455969e76b|-1793997187|astonishing_vegetation.html*astonishing_vegetation_files*astonishing_vegetation.qmd|t20753.4636244328s|s1385236b|1385236|file|local|vector|||7.72||
